@@ -9,7 +9,6 @@ use Cwd;
 my($device_ip) = @ARGV;
 
 my $dir = "/opt/freesvr/web/CA";
-my $conf_dir = "/opt/freesvr/web/conf";
 
 unless(-e $dir)
 {
@@ -109,4 +108,3 @@ if(defined $results[1])
 
 sleep(2);
 $exp->soft_close();
-
