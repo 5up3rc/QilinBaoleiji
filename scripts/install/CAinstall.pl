@@ -55,7 +55,7 @@ open(my $fd_fw,">index.txt");
 close($fd_fw);
 
 open($fd_fw,">serial");
-print $fd_fw "01";
+print $fd_fw "02";
 close($fd_fw);
 
 chdir "..";
