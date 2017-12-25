@@ -1,10 +1,6 @@
 <?php
 error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
 //echo '<pre>';var_dump($_POST);echo '</pre>';exit;
-if($_SERVER['HTTPS']!='on'&&$_GET['action']!='synchronization_ad_users'&&$_GET['action']!='docronreports'){
-	header("Location: https://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
-	exit;
-}
 
 $time_start = getmicrotime(); 
 
