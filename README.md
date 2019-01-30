@@ -63,20 +63,5 @@ https://app.huaweicloud.com/product/00301-47088-0--0
 
 1.4 产品使用：
 
- 管理员使用步骤:
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=36
+ http://www.tosec.com.cn/
  
- 运维人员使用手册：
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=4&extra=page%3D1
- 
- 动态口令使用手册:
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=7&extra=page%3D1
- 
- SSL VPN使用手册：
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=5&extra=page%3D1
- 
- 审计回放手册:
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=25&extra=page%3D1
- 
- 苹果MacOS使用手册:
- http://www.tosec.com.cn/forum.php?mod=viewthread&tid=31&extra=page%3D1
